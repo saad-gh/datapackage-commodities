@@ -1,0 +1,23 @@
+{
+  "name": "world_commodity_exporter",
+  "title": "World Commodity Exporters",
+  "licenses": [
+    {
+      "name":"Terms and Conditions",
+      "path": "http://www.imf.org/external/terms.htm"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Commodity Exporters",
+      "path": "https://query.data.world/s/hsj6z7k2c25wj2jwpfbnx5r4ijil4j"
+    }
+  ],
+  "resources": [
+    {
+      "path": "https://query.data.world/s/hsj6z7k2c25wj2jwpfbnx5r4ijil4j",
+      "name": "world_commodity_exporter",
+      "format": "csv"
+    }
+  ]
+}

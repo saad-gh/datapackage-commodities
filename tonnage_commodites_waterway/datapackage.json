@@ -1,0 +1,23 @@
+{
+  "name": "tonnage_commodites_waterway",
+  "title": "Total tonnage of commodites carried on commercial waterways by traffic type",
+  "licenses": [
+    {
+      "name":"U.S. Government Work",
+      "path": "https://www.usa.gov/government-works"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Total tonnage of commodites carried on commercial waterways by traffic type",
+      "path": "https://query.data.world/s/n53skeczikb5gktqbqlcfegnrxckxv"
+    }
+  ],
+  "resources": [
+    {
+      "path": "https://query.data.world/s/n53skeczikb5gktqbqlcfegnrxckxv",
+      "name": "tonnage_commodites_waterway",
+      "format": "csv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "imf_commodity_prices",
+  "title": "Primary Commodity Prices",
+  "licenses": [
+    {
+      "name":"Terms and conditions",
+      "path": "http://www.imf.org/external/terms.htm"      
+    }
+  ],
+  "sources": [
+    {
+      "title": "Primary Commodity Prices",
+      "path": "https://query.data.world/s/44723gpz4vcjrsg5nupqtt6zjnvvxu"
+    }
+  ],
+  "resources": [
+    {
+      "path": "https://query.data.world/s/44723gpz4vcjrsg5nupqtt6zjnvvxu",
+      "name": "imf_commodity_prices",
+      "format": "csv"
+    }
+  ]
+}

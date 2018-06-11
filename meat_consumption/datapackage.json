@@ -1,0 +1,26 @@
+{
+  "name": "meat_consumption",
+  "title": "Meat Consumption",
+  "licenses": [
+    {
+      "name":"",
+      "path": ""      
+    }
+  ],
+  "citation":{
+    "path":"https://data.oecd.org/agroutput/meat-consumption.htm"
+  },  
+  "sources": [
+    {
+      "title": "Meat consumption",
+      "path": "https://query.data.world/s/nf75gcnypmqgebmnmo7v65fxyzrdum"
+    }
+  ],
+  "resources": [
+    {
+      "path": "https://query.data.world/s/nf75gcnypmqgebmnmo7v65fxyzrdum",
+      "name": "meat_consumption",
+      "format": "csv"
+    }
+  ]
+}
